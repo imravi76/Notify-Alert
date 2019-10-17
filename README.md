@@ -13,7 +13,7 @@ implementation 'com.google.android.material:material:1.0.0'       (For Newer And
 
 Step 2 - open the Strings file and add those ![strings](app/src/main/res/values/strings.xml).
 
-Step 3 - open your app's ![Manifest](app/src/main/Manifest.xml) file and add this permission:
+Step 3 - open your app's ![Manifest](app/src/main/AndroidManifest.xml) file and add this permission:
     <uses-permission android:name="android.permission.INTERNET"/>
 
 
