@@ -19,4 +19,4 @@ uses-permission android:name="android.permission.INTERNET"
 
 
 
-Step 4 - Then, Copy and paste the ![layouts](app/src/main/res/layout/activity_main.xml) and ![java code](app/src/main/java/com/example/studetails/MainActivity.java) .
+Step 4 - Then, Copy and paste the ![layouts](app/src/main/res/layout) and ![java code](app/src/main/java/com/example/notifyalert/) .
