@@ -13,6 +13,9 @@ implementation 'com.google.android.material:material:1.0.0'       (For Newer And
 
 Step 2 - open the Strings file and add those ![strings](app/src/main/res/values/strings.xml).
 
+Step 3 - open your app's ![Manifest](app/Manifest.xml) file and add this permission:
+    <uses-permission android:name="android.permission.INTERNET"/>
 
 
-Step 3 - Then, Copy and paste the ![layouts](app/src/main/res/layout/activity_main.xml) and ![java code](app/src/main/java/com/example/studetails/MainActivity.java) .
+
+Step 4 - Then, Copy and paste the ![layouts](app/src/main/res/layout/activity_main.xml) and ![java code](app/src/main/java/com/example/studetails/MainActivity.java) .
